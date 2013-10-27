@@ -7,12 +7,12 @@ public class frase {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub PAaZ
 		
-		
+		// hola
 		Scanner lector= new Scanner(System.in);
 	    System.out.println("Escriu una frase, et donare info:");
 	        
 	        String primera = lector.nextLine();
-	        String abe ="abcdefghijklmnñopqrstvwxyz";
+	        String abe ="abcdefghijklmnï¿½opqrstvwxyz";
 	        int [] lala = new int[26];
 	        int contador = 0;
 	        
