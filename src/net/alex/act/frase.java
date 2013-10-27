@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class frase {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub PAiZ
+		// TODO Auto-generated method stub PAuZ
 		
 		Scanner lector= new Scanner(System.in);
 	    System.out.println("Escriu una frase, et donare info:");
