@@ -5,12 +5,19 @@ import java.util.Scanner;
 public class frase {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		// TODO Auto-generated method stub PAoZ
 		
+=======
+		// TODO Auto-generated method stub PAaZ
+>>>>>>> 5ae72825e31377486515ff7ca89b67f067b3addb
+		
+		// hola
 		Scanner lector= new Scanner(System.in);
 	    System.out.println("Escriu una frase, et donare info:");
 	        
 	        String primera = lector.nextLine();
+	        String abe ="abcdefghijklmn�opqrstvwxyz";
 	        int [] lala = new int[26];
 	        int contador = 0;
 	        
