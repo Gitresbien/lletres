@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class frase {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub PAZ
+		// TODO Auto-generated method stub PAaZ
 		
 		
 		Scanner lector= new Scanner(System.in);
