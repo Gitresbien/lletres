@@ -12,6 +12,7 @@ public class frase {
 	        
 	        String primera = lector.nextLine();
 	        int [] lala = new int[26];
+	        String abe ="abcdefghijklmnñopqrstvwxyz";
 	        int contador = 0;
 	        
 	        for(int i=0;i<primera.length();i++){
